@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Dinamyc</title>
-    <link>https://example.com/talk/index.xml</link>
+    <link>https://pouya-barzegar.github.io/talk/index.xml</link>
     <description>Recent content in Talks on Dinamyc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us_UTF-8</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Let: Hacker&#39;s Ethic</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://pouya-barzegar.github.io/talk/example-talk/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://pouya-barzegar.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
